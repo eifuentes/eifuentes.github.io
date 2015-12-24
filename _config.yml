@@ -7,10 +7,10 @@ gems: [jekyll-paginate]
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: eifuentes
+  avatar: profile_icon.jpg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Emmanuel Fuentes personal blog" # used by search engines
 
   # Header and footer text
   header_text: >
